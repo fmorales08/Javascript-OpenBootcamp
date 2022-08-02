@@ -1,0 +1,15 @@
+{
+	"name": "first-project",
+	"version": "1.0.0",
+	"description": "Primer ejercicio con Node",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"hola": "node saludo.js"
+	},
+	"keywords": [
+		"first project"
+	],
+	"author": "Fabian Morales",
+	"license": "ISC"
+}
